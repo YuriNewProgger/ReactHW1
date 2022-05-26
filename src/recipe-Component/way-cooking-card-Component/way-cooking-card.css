@@ -1,0 +1,8 @@
+.stepCard{
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+}
+.stepCard>div{
+    margin-left: 5%;
+}

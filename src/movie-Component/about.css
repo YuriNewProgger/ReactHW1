@@ -1,0 +1,8 @@
+.title{
+    font-weight: bold;
+    margin-right: 2%;
+}
+
+.about>li{
+    list-style-type: none;
+}

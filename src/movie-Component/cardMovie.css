@@ -1,0 +1,13 @@
+.infoMovie{
+    display: flex;
+    justify-content: center;
+}
+
+.infoMovie>img{
+    width: 15%;
+    height: 15%;
+}
+
+.discriotionMovie{
+    margin: 3%;
+}
